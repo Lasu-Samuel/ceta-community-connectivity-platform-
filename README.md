@@ -1,3 +1,5 @@
+<img width="3840" height="2160" alt="IMG_20251212_120829_378" src="https://github.com/user-attachments/assets/57ad14e7-573f-4720-bdbe-61b19a9d5d70" />
+<img width="4928" height="3264" alt="DSC_4055" src="https://github.com/user-attachments/assets/19ee313f-050d-4ef8-892a-e74bf7b628a7" />
 <img width="4928" height="3264" alt="DSC_3848" src="https://github.com/user-attachments/assets/c0836ba6-1b50-43eb-898e-91495edbe26e" />
 CETA Community Digital Infrastructure Platform
 
@@ -265,7 +267,9 @@ Test functionality across the different system layers.
 
 Evaluate usability, reliability and security.
 
-Gather feedback from community users and administrators.
+Gather feedback from commu<img width="3840" height="2160" alt="IMG_20251213_164228_890" src="https://github.com/user-attachments/assets/f0a534f4-f9ef-414a-a36c-deff32ca4117" />
+<img width="3840" height="2160" alt="IMG_20251211_154945_917" src="https://github.com/user-attachments/assets/87b050e9-d87b-4678-9865-214b5b046de1" />
+nity users and administrators.
 
 Improve the prototype based on field experience.
 
